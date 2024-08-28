@@ -1,8 +1,6 @@
 
-FOR THE SET UP OF PROJECT, PLEASE FOLLOW THE SET UP GUIDE VIDEO PROPERLY WITHOUT SKIPPING ANYTHING.
 
 -----------------------------------------------------------------------
-
 Befor starting the project set up, make sure you have properly installed the below softwares:
 1) Java JDK 17 or above version
 2) STS (STS 4 recommended)
@@ -10,9 +8,8 @@ Befor starting the project set up, make sure you have properly installed the bel
 4) Vs Code
 5) MySQL Server and MySQL WorkBench (use can also use Command prompt for Data Querying, But I recommend to use Workbench)
 
------------------------------------------------------------------------
-
-As shown on video, For running frontend we have to use [npm start] command.
+----------------------------------------------------------------
+For running frontend we have to use [npm start] command.
 
 1) After hitting [npm start] command, when we get [Error: cannot find module react], 
 
@@ -43,7 +40,6 @@ You just have to enter the correct mysql password in application.properties file
 
 -----------------------------------------------------------------------
 
-If you face any issue during set up, please do contact me:
 
 Contact Details:
 
